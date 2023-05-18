@@ -20,6 +20,8 @@ while (true) {
 
     if (task === "end") {
         break;
+
+        
     }
 
     if (task === 'print') {
