@@ -13,6 +13,11 @@ class Task{
     }
 }
 
+
+
+
+
+
 const tasksList = []
 
 while (true) {
@@ -21,7 +26,7 @@ while (true) {
     if (task === "end") {
         break;
 
-        
+
     }
 
     if (task === 'print') {
